@@ -1,0 +1,6 @@
+.idea
+db.sqlite3
+venv
+api/__pycache__
+nilo/__pycache__
+api/migrations
